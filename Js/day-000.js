@@ -1,1 +1,2 @@
 console.log("Welcome to Day 0, This is the starting point of my journey.");
+console.log("commit test")
