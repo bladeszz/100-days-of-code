@@ -19,6 +19,7 @@ I am a 3rd-year Computer Science student from Turkey, dedicated to mastering Web
 
 | Day | Date | Topic | Projects & Notes | Code Link |
 |:---:|:---:|:---|:---|:---:|
+| 1 | Jan 13, 2026 | HTML, CSS & JavaScript Basics | Interactive container layout with event listeners (click & mouseover events) | [day1/]
 
 
 ## Connect with Me
